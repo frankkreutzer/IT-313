@@ -1,0 +1,5 @@
+EUR
+MXN
+CAD
+INR
+JPY
